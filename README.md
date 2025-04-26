@@ -1,4 +1,4 @@
-# DIY-github
+# 三分钟DIY自己的github主页
 
 ## 想要DIY一个属于自己的炫酷github主页吗？
 
